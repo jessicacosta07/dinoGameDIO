@@ -18,7 +18,7 @@ function jump() {
 
   let upInterval = setInterval(() => {
     if (position >= 150) {
-      // Descendo
+      // Descer dinossauro
       clearInterval(upInterval);
 
       let downInterval = setInterval(() => {
@@ -31,7 +31,7 @@ function jump() {
         }
       }, 20);
     } else {
-      // Subindo
+      // Subir dinossauro
       position += 20;
       dino.style.bottom = position + 'px';
     }
