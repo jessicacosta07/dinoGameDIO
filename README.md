@@ -1,4 +1,4 @@
-# Game do Dinossauro
+# Jogo do Dinossauro
 
 Projeto do Bootcamp JavaScript Game Developer
 
