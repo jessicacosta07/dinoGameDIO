@@ -1,6 +1,6 @@
 # Dinosaur Game
 
-## Bootcamp JavaScript Game Developer Project
+## Bootcamp JavaScript Game Developer
 
 ## Skills
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
